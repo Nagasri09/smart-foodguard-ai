@@ -1,0 +1,11 @@
+{
+  "message_id": "esp32-demo-01-000001",
+  "session_id": "COPY_ACTIVE_SESSION_ID_HERE",
+  "food": "milk",
+  "measured_at": "2026-10-31T12:30:00Z",
+  "measurements": {
+    "temperature_c": 22.4,
+    "ph": 6.7,
+    "conductivity_us_cm": 410.0
+  }
+}
